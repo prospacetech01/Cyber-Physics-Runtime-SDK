@@ -1,0 +1,5 @@
+# Cyber-Physics Runtime SDK
+# v0.1.0-alpha
+
+# No external dependencies.
+# Requires Python 3.10+

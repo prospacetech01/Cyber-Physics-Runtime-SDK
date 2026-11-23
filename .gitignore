@@ -1,0 +1,61 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+.venv/
+
+# Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Runtime files
+
+*.pid
+*.sock
+
+# Kafka / telemetry temp files
+
+*.tmp
+runtime/
+telemetry_cache/
+
+# IDEs
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Pytest
+
+.pytest_cache/
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Local configs
+
+local_settings.py
+config.local.json
